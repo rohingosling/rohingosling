@@ -17,9 +17,9 @@
 
 ## Production Projects
 
-- 🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images, for transparency masks, or anything else you might need hexagons for.
+- 🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.
 - 📡 [Pinger](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
-- 📖 [Universal Year Planner](https://github.com/rohingosling/Year-Planner-Generator) - Universal PDF Year Planer generator. ...Download the pre-generated 2026 Year Planer PDF [here](https://github.com/rohingosling/Year-Planner-Generator/blob/main/output/year_planner.pdf).
+- 📖 [Universal Year Planner](https://github.com/rohingosling/Year-Planner-Generator) - Universal PDF Year Planer generator. Download 2026 Year Planer PDF [here](https://github.com/rohingosling/Year-Planner-Generator/blob/main/output/year_planner.pdf).
 - 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including, [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
 
 ## Research Projects
