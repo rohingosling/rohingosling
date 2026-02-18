@@ -40,7 +40,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/rohingosling)
+![GitHub Contribution Graph](https://github-contribution-merger.vercel.app/api?username=rohingosling)
 
 ## What I'm Doing
 
