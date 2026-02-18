@@ -15,30 +15,28 @@
 ![OpenSCAD](https://img.shields.io/badge/OpenSCAD-F5C400?style=flat-square&logo=openscad&logoColor=black)
 ![Commodore 64](https://img.shields.io/badge/Commodore_64-6C5EB5?style=flat-square&logo=commodore&logoColor=white)
 
-## Projects
+## Production Projects
 
-|**Production Projects**||
-|:---|:---|
-|🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator)|Generate hexagonal grid images, for transparency masks, or anything else you might need hexagons for.|
-|📡 [Pinger](https://github.com/rohingosling/pinger)|Like `ping`, ...but prettier, ...with CSV file exports.|
-|📖 [Universal Year Planner](https://github.com/rohingosling/Year-Planner-Generator)|Universal PDF Year Planer generator. ...Download the pre-generated 2026 Year Planer PDF [here](https://github.com/rohingosling/Year-Planner-Generator/blob/main/output/year_planner.pdf).|
-|🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD)|Parametric 3D Printing models. Including, [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167) |
+- 🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images, for transparency masks, or anything else you might need hexagons for.
+- 📡 [Pinger](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
+- 📖 [Universal Year Planner](https://github.com/rohingosling/Year-Planner-Generator) - Universal PDF Year Planer generator. ...Download the pre-generated 2026 Year Planer PDF [here](https://github.com/rohingosling/Year-Planner-Generator/blob/main/output/year_planner.pdf).
+- 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including, [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
 
-|**Research Projects**||
-|:---|:---|
-|📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions)|Parametric function solutions for cubic polynomials and trigonometric functions.|
-|🤖 [OpenAI GPT Reference App (Procedural)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural)|Python template for writing procedural OpenAI GPT API applications.|
-|🤖 [OpenAI GPT Reference App (OOP)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP)|Python template for writing object oriented OpenAI GPT API applications.|
-|🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network)|RNN training algorithm experiments.|
-|🧠 [Neural Network (ANN/MLP)](https://github.com/rohingosling/neural-network-cpp)|Multi-layer perceptron experiments.|
+## Research Projects
 
-|**Legacy Projects**||
-|:---|:---|
-|🐍 [Common Python Library](https://github.com/rohingosling/common-python)|Common Python library repository. Deprecated, but kept around for spare parts.|
-|🍵 [Common Java Library](https://github.com/rohingosling/common-java)|Common Java library repository. Deprecated, but also kept around for spare parts.|
-|⚙️ [Common C++ Library](https://github.com/rohingosling/common-cpp)|Common C++ library repository. Deprecated. More spare parts.|
-|🔪 [Common C# Library](https://github.com/rohingosling/common-cs)|Common C# library repository. Deprecated. If only I could sell these spare parts.|
-|📊 [Common MATLAB Library](https://github.com/rohingosling/common-matlab)|Common MATLAB library repository. Deprecated. Spare parts R us. |
+- 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric function solutions for cubic polynomials and trigonometric functions.
+- 🤖 [OpenAI GPT Reference App (Procedural)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Python template for writing procedural OpenAI GPT API applications.
+- 🤖 [OpenAI GPT Reference App (OOP)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP) - Python template for writing object oriented OpenAI GPT API applications.
+- 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.
+- 🧠 [Neural Network (ANN/MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.
+
+## Legacy Projects
+
+- 🐍 [Common Python Library](https://github.com/rohingosling/common-python) - Common Python library repository. Deprecated, but kept around for spare parts.
+- 🍵 [Common Java Library](https://github.com/rohingosling/common-java) - Common Java library repository. Deprecated, but also kept around for spare parts.
+- ⚙️ [Common C++ Library](https://github.com/rohingosling/common-cpp) - Common C++ library repository. Deprecated. More spare parts.
+- 🔪 [Common C# Library](https://github.com/rohingosling/common-cs) - Common C# library repository. Deprecated. If only I could sell these spare parts.
+- 📊 [Common MATLAB Library](https://github.com/rohingosling/common-matlab) - Common MATLAB library repository. Deprecated. Spare parts R us.
 
 ## GitHub Activity
 
