@@ -51,7 +51,9 @@
 ### Philosophy
 
 - **Run Time Configurability**
-  - Make everything in production configurable, through a user interface, in real time.  
+  - Make everything in production configurable, through a user interface, in real time.
+  - Everything should have a user interface, even if it's only a CLI, but everything should have some kind of GUI or TUI that can be used to configure intuitively configurable features in production in real time.
+  - If configurable features have customer or reputational impact that requires four or more eyes, this is *still* no excuse to log a project for the change. Build an authorisation queue into your UI, so that business users can make the changes they need from the UI, and authorise from the UI, in real time.   
   - Only new features should require logging projects. Existing features with obvious variability should be variable from the front end, in real time.
   - *If you need a value in a database changed, and you have to log a project to do it, ...you failed. ...Stop doing that!*.
 
