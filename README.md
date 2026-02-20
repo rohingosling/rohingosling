@@ -53,7 +53,8 @@
 - **Run time configurability**
   - Make everything in production configurable, through a user interface, in real time.
   - Everything should have a user interface, even if it's only a CLI, but everything should have some kind of GUI, TUI, or CLI that either the business users or customers can use to configure intuitively configurable features in production, in real time.
-    - This includes backend and middleware application. **Everything**, must have a UI, or some sort, so that obvious configurations can be perfromed through the UI, in real time.
+    - This includes backend and middleware applications.
+    - **Everything**, must have a UI, or some sort, so that obvious configurations can be performed through the UI, in real time.
   - If configurable features have customer or reputational impact that requires four or more eyes, build an authorisation queue into your UI, so that business users can make the changes they need from the UI, and authorise from the UI, in real time.   
   - Only new features should require logging projects. Existing features with obvious variability should be variable from the front end, in real time.
   
