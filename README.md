@@ -50,16 +50,19 @@
 
 ### Philosophy
 
-- Make everything in production configurable, through a business user interface, in real time.
-- If you need a value in a database changed, and you have to log a project to do it, ...you failed. *...Stop doing that!*.
+- **Run Time Configurability **
+  - Make everything in production configurable, through a user interface, in real time.  
+  - Only new features should require logging projects. Existing features with obvious variability should be variable from the front end, in real time.
+  - *If you need a value in a database changed, and you have to log a project to do it, ...you failed. ...Stop doing that!*.
 
 
 <details>
 <summary>Random Facts</summary>
 
-- Free Diver
+- NAUI certified free diver
 - Sky Diver
-- Ex-BMX Flatland freestyler
-- Ex-Gymnast
+- Former Freestyle BMX Flatland show rider.
+- Former Gymnast
+- Former Trapeze artist
 
 </details>
