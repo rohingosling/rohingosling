@@ -50,7 +50,7 @@
 
 ### Philosophy
 
-- **Run Time Configurability **
+- **Run Time Configurability**
   - Make everything in production configurable, through a user interface, in real time.  
   - Only new features should require logging projects. Existing features with obvious variability should be variable from the front end, in real time.
   - *If you need a value in a database changed, and you have to log a project to do it, ...you failed. ...Stop doing that!*.
