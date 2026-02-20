@@ -48,39 +48,17 @@
 - [X](https://x.com/rohingosling)
 - [GitHub](https://github.com/rohingosling)
 
-### Philosophy
+## Philosophy
 
-- **Run time configurability**
-  - Make everything in production configurable, through a user interface, in real time.
-  - Everything should have a user interface, even if it's only a CLI, but everything should have some kind of GUI, TUI, or CLI that either the business users or customers can use to configure intuitively configurable features in production, in real time.
-    - This includes backend and middleware applications.
-    - **Everything**, must have a UI, so that obvious configurations can be performed through the UI, in real time, in production.
-  - If configurable features have customer or reputational impact that requires four or more eyes, build an authorisation queue into your UI, so that business users can make the changes they need from the UI, and authorise from the UI, in real time.   
-  - Only new features should require logging projects. Existing features with obvious variability should be variable from the front end, in real time.
-  
-- **Reporting is a main feature, not an afterthought**
-  - Your UI should have some kind of dashboard that shows obvious stats the business users need.
-    - *Even* if your UI is a CLI, then, `--stats`, or something, but make it happen.
-  - Sure, you can build fancy PowerBI dashboards and other reporting solutions later, but the base application should ship with a minimal dashboard that the business users can access from the front end.
-  - Aside from the value this offers your business users out of the box, it encourages one to design their application data structure in a way that can be reported on, with out system level entity names and abbreviations making their way up to the business users.
-  - Application databases should be designed with reportability incorporated as a main design feature. 
+- **Runtime Configurability** - Every application should ship with a UI (GUI, TUI, or CLI) that lets business users tune configurable features in production, without logging a project. This includes backend and middleware systems.
 
-- **UI-API Parity**
-  - Anything a user can do through the UI, must also be possible to do programmatically via an API.
-  - Anything that can be done programmatically via the API, should be possible to do through the UI.
-    - System-level functions will be accessible through a "Settings" menu, for example.
-  - When new UI features are added or changed, the API is updated as well, and regression testing always tests both.
-  - When new API features are added or changed, the UI is updated as well, and regression testing always tests both.
- 
-- **Build Internal Productivity Tools**
-  - A portion of teams design and development time and budget should be allocated to designing and building productivity tools for internal use.
-  - For example, if you are going to adopt the "UI-API Parity" philosophy, then build a GUI tool that developers or even business analysts can use to set up the dual UI and API scaffolding for the new feature.
- 
-- **Build Simulators**
-  - This is a special case of building productivity tools. But it's so special that it deserves its own shoutout.
-  - If your system interacts with other systems, don't wait for integration testing to find out if your integration works. Instead, build a simulator that the dev team can use on their local machines while they are coding.
-    - Your simulators don't need to simulate everything. But if you have a big complicated system that sends your system status updates, or something, then make a simulator that just implements the status update sending feature.
-    - I remember once working on an ATM middleware product that interfaced ATMs with banking infrastructure. Someone in the team hacked together an phyiscal ATM simulator on a plank of wood. It even had a card reader that had been borrowed from NCR. This thing was ugly, but the development time it saved was invaluable.
+- **Reporting Ships on Day One** - Every application should include a basic dashboard out of the box. Even a CLI gets a `--stats` flag. Design the data model for reportability from the start, not as a retrofit.
+
+- **UI-API Parity** - Anything a user can do through the UI must also be possible via the API, and vice versa. Both surfaces ship together and are regression-tested together.
+
+- **Build Internal Productivity Tools** - Allocate time and budget for tools that accelerate the team. For example, if you adopt UI-API parity, build a scaffolding tool so developers can spin up both surfaces for a new feature in minutes.
+
+- **Build Simulators** - If your system integrates with other systems, don't wait for integration testing. Build a lightweight simulator developers can run locally. It doesn't need to cover everything, just the interfaces you depend on. I once watched a team hack together a physical ATM simulator on a plank of wood, card reader and all. Ugly, but invaluable.
 
 <details>
 <summary>Random Facts</summary>
