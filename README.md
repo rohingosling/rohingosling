@@ -50,13 +50,17 @@
 
 ### Philosophy
 
-- **Run Time Configurability**
+- **Run time configurability**
   - Make everything in production configurable, through a user interface, in real time.
   - Everything should have a user interface, even if it's only a CLI, but everything should have some kind of GUI, TUI, or CLI that can be used to configure intuitively configurable features in production, in real time.
   - If configurable features have customer or reputational impact that requires four or more eyes, build an authorisation queue into your UI, so that business users can make the changes they need from the UI, and authorise from the UI, in real time.   
   - Only new features should require logging projects. Existing features with obvious variability should be variable from the front end, in real time.
-  - *If you need a value in a database changed, and you have to log a project to do it, please go stand in the corner of the classroom and think about what you have done.*
-
+ 
+- **Reporting is a main feature, not an afterthought**
+  - Your UI should have some kind of dashboard that shows obvious stats the business users need. *Even* if your UI is a CLI, then, `--stats`. 
+  - Sure, you can build fancy PowerBI dashboards and other reporting solutions later, but the base application should ship with a minimal dashboard that the business users can access from the front end.
+  - Aside from the value this offers your business users, it ensures that your application's data is structured in a way that can be reported on with out system level entity names and abbreviations making their way to the business users. 
+  
 
 <details>
 <summary>Random Facts</summary>
