@@ -19,16 +19,19 @@
 
 - 🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.
 - 📡 [Pinger](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
-- 📖 [Universal Year Planner](https://github.com/rohingosling/Year-Planner-Generator) - Universal PDF Year Planer generator. Download 2026 Year Planer PDF [here](https://github.com/rohingosling/Year-Planner-Generator/blob/main/output/year_planner.pdf).
-- 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including, [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
+- 📖 [Universal Year Planner](https://github.com/rohingosling/Year-Planner-Generator) - Universal PDF Year Planer generator. Download 2026 Year Planner PDF [here](https://github.com/rohingosling/Year-Planner-Generator/blob/main/output/year_planner.pdf).
+- 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
 
 ## Research Projects
 
 - 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric function solutions for cubic polynomials and trigonometric functions.
+- 🎲 [ECS Game Engine (Java Version)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java Version. (Ported from my original C++ ECS Game Engine)
 - 🤖 [OpenAI GPT Reference App (Procedural)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Python template for writing procedural OpenAI GPT API applications.
-- 🤖 [OpenAI GPT Reference App (OOP)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP) - Python template for writing object oriented OpenAI GPT API applications.
+- 🤖 [OpenAI GPT Reference App (OOP)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP) - Python template for writing object-oriented OpenAI GPT API applications.
 - 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.
 - 🧠 [Neural Network (ANN/MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.
+
+
 
 ## Legacy Projects
 
