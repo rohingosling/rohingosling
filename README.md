@@ -41,9 +41,6 @@
 - 🔪 [Common C# Library](https://github.com/rohingosling/common-cs) - Common C# library repository. Deprecated. If only I could sell these spare parts.
 - 📊 [Common MATLAB Library](https://github.com/rohingosling/common-matlab) - Common MATLAB library repository. Deprecated. Spare parts R us.
 
-## What I'm Doing
-
-- **Building** - Building products.
 
 ## Connect
 
