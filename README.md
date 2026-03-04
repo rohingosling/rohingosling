@@ -41,7 +41,7 @@
 - 🍵 [Common Java Library](https://github.com/rohingosling/common-java) - Common Java library repository. Deprecated, but also kept around for spare parts.
 - ⚙️ [Common C++ Library](https://github.com/rohingosling/common-cpp) - Common C++ library repository. Deprecated. More spare parts.
 - 🔪 [Common C# Library](https://github.com/rohingosling/common-cs) - Common C# library repository. Deprecated. If only I could sell these spare parts.
-- 📊 [Common MATLAB Library](https://github.com/rohingosling/common-matlab) - Common MATLAB library repository. Deprecated. Spare parts R us. *<-- See what I did there?*
+- 📊 [Common MATLAB Library](https://github.com/rohingosling/common-matlab) - Common MATLAB library repository. Deprecated. Spare parts R us.
 
 
 ## Connect
