@@ -36,6 +36,7 @@
 
 ## Legacy Projects
 
+- C= [HEX-Loader]9https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 BASIC machine language loader. 
 - 🐍 [Common Python Library](https://github.com/rohingosling/common-python) - Common Python library repository. Deprecated, but kept around for spare parts.
 - 🍵 [Common Java Library](https://github.com/rohingosling/common-java) - Common Java library repository. Deprecated, but also kept around for spare parts.
 - ⚙️ [Common C++ Library](https://github.com/rohingosling/common-cpp) - Common C++ library repository. Deprecated. More spare parts.
