@@ -32,11 +32,12 @@
 - 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.
 - 🧠 [Neural Network (ANN/MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.
 
+## 80s/90s Demo Scene
 
+- 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 BASIC machine language loader. 
 
 ## Legacy Projects
 
-- 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 BASIC machine language loader. 
 - 🐍 [Common Python Library](https://github.com/rohingosling/common-python) - Common Python library repository. Deprecated, but kept around for spare parts.
 - 🍵 [Common Java Library](https://github.com/rohingosling/common-java) - Common Java library repository. Deprecated, but also kept around for spare parts.
 - ⚙️ [Common C++ Library](https://github.com/rohingosling/common-cpp) - Common C++ library repository. Deprecated. More spare parts.
