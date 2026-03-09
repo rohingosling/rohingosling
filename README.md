@@ -25,7 +25,7 @@
 ## Research Projects
 
 - 🎲 [ECS Game Engine (Java Version)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.
-- 🎲 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General purpose ECS (Entity Component System) Game Engine.
+- 🎲 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (Entity Component System) Game Engine.
 - 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric function solutions for cubic polynomials and trigonometric functions.
 - 🤖 [OpenAI GPT Reference App (Procedural)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Python template for writing procedural OpenAI GPT API applications.
 - 🤖 [OpenAI GPT Reference App (OOP)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP) - Python template for writing object-oriented OpenAI GPT API applications.
@@ -34,6 +34,7 @@
 
 ## 80s/90s Demo Scene
 
+- 🌈 [GFX-13]() - Mode 13h (320x200, 246 color) 2D graphics library written in assembler, for demo coding.
 - 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 BASIC machine language loader. 
 
 ## Legacy Projects
