@@ -34,7 +34,7 @@
 - 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.
 - 🧠 [Neural Network (ANN/MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.
 
-## 80s/90s Demo Scene
+## 80s/90s Demo Scene + Retro Computing
 
 - 🌐 [M3DE](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Originally targeting 386 and 486 machines from the 90s.
 - 🌈 [GFX-13](https://github.com/rohingosling/GFX-13) - Mode 13h (320x200, 246 color) 2D graphics library for demo coding back in the 90s, written in x86 assembler.
