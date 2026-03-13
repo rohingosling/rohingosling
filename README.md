@@ -36,6 +36,8 @@
 
 ## 80s/90s Demo Scene
 
+
+- 🌐 [M3DE](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Originally targeting 386 and 486 machines from the 90s.
 - 🌈 [GFX-13](https://github.com/rohingosling/GFX-13) - Mode 13h (320x200, 246 color) 2D graphics library for demo coding back in the 90s, written in x86 assembler.
 - 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 BASIC machine language loader. 
 
