@@ -33,6 +33,8 @@
 - 🤖 [OpenAI GPT Reference App (OOP)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-2-OOP) - Python template for writing object-oriented OpenAI GPT API applications.
 - 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.
 - 🧠 [Neural Network (ANN/MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.
+- 〰️ [Polynomial Curve Fitting Library]([https://github.com/rohingosling/neural-network-cpp](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library)) - A polynomial curve fitting library.
+
 
 ## 80s/90s Demo Scene + Retro Computing
 
