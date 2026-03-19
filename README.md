@@ -40,7 +40,7 @@
 - 🌈 [GFX-13](https://github.com/rohingosling/GFX-13) - Mode 13h (320x200, 246 color) 2D graphics library for demo coding back in the 90s, written in x86 assembler.
 - 🔵 [Vector Balls](https://github.com/rohingosling/VectorBalls) - Vector ball demo, with parallel starfield renderer, and palette fade-in and fade-out.
 - 〰️ [Polynomial Curve Fitting Library](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library) - A polynomial curve fitting library.
-- 〰️ [INI File Library](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
+- 📄 [INI File Library](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
 - 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 HEX op-code machine language loader. 
 
 ## Legacy Projects
