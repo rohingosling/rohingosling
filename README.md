@@ -37,8 +37,8 @@
 ## 80s/90s Demo Scene + Retro Computing
 
 - 🌐 [M3DE](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Originally targeting 386 and 486 machines from the 90s.
-- 🌈 [GFX-13 (Version 2.0, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h (320x200, 256 color) 2D graphics library for demo coding back in the 90s, written in C and inline assembly.
-- 🌈 [GFX-13 (Version 1.0, ASM)](https://github.com/rohingosling/GFX13-v1-ASM) - Mode 13h (320x200, 256 color) 2D graphics library for demo coding back in the 90s, written in x86 assembler.
+- 🌈 [GFX-13 (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h (320x200, 256 color) 2D graphics library for demo coding back in the 90s, written in C and inline assembly.
+- 🌈 [GFX-13 (v1, ASM)](https://github.com/rohingosling/GFX13-v1-ASM) - Mode 13h (320x200, 256 color) 2D graphics library for demo coding back in the 90s, written in x86 assembler.
 - 🌈 [GFX-13](https://github.com/rohingosling/GFX-13) - Mode 13h (320x200, 246 color) 2D graphics library for demo coding back in the 90s, written in x86 assembler.
 - 🔵 [Vector Balls](https://github.com/rohingosling/VectorBalls) - Vector ball demo, with parallel starfield renderer, and palette fade-in and fade-out.
 - 〰️ [Polynomial Curve Fitting Library](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library) - A polynomial curve fitting library.
