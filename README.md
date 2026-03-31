@@ -36,6 +36,7 @@
 
 ## 80s/90s Demo Scene + Retro Computing
 
+- ❄️ [Fractal Renderer (DOS)](https://github.com/rohingosling/Fractal-Renderer-DOS) Configurable Mandelbrot fractal geometry renderer. 
 - 🌐 [M3DE](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Originally targeting 386 and 486 machines from the 90s.
 - 🌈 [GFX-13 (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h (320x200, 256 color) 2D graphics library for old-school demo coding, written in C and inline assembly.
 - 🌈 [GFX-13 (v1, ASM)](https://github.com/rohingosling/GFX13-v1-ASM) - Mode 13h (320x200, 256 color) 2D graphics library for old-school demo coding, written in x86 assembler.
