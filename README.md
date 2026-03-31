@@ -36,6 +36,8 @@
 
 ## 80s/90s Demo Scene + Retro Computing
 
+### 80x86
+
 - ❄️ [Fractal Renderer (DOS)](https://github.com/rohingosling/Fractal-Renderer-DOS) Configurable Mandelbrot fractal geometry renderer. 
 - 🌐 [M3DE](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Originally targeting 386 and 486 machines from the 90s.
 - 🌈 [GFX-13 (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h (320x200, 256 color) 2D graphics library for old-school demo coding, written in C and inline assembly.
@@ -43,6 +45,9 @@
 - 🔵 [Vector Balls](https://github.com/rohingosling/VectorBalls) - Vector ball demo, with parallel starfield renderer, and palette fade-in and fade-out.
 - 〰️ [Polynomial Curve Fitting Library](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library) - A polynomial curve fitting library.
 - 📄 [INI File Library (DOS, Win 3.1, Win 95/98)](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
+
+### Commodore 64, Commodore VIC20
+  
 - 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 HEX op-code machine language loader. 
 
 ## Legacy Projects
