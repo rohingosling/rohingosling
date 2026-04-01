@@ -47,7 +47,9 @@
 - 📄 [INI File Library (DOS, Win 3.1, Win 95/98)](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
 
 ### Commodore 64, Commodore VIC20
-  
+
+- 🌐 [3D Cube](https://github.com/rohingosling/c64-hex-loader/tree/main) - 3D Wireframe object renderer.
+- ⌨️ [Code Probe](https://github.com/rohingosling/c64-hex-loader/tree/main) - Light weight C64 software monitor.
 - 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 HEX op-code machine language loader. 
 
 ## Legacy Projects
