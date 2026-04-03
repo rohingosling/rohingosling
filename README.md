@@ -23,7 +23,7 @@
 - 📡 [Pinger](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
 - 📖 [Universal Year Planner](https://github.com/rohingosling/Year-Planner-Generator) - Universal PDF Year Planer generator. Download 2026 Year Planner PDF [here](https://github.com/rohingosling/Year-Planner-Generator/blob/main/output/year_planner.pdf).
 - 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
-- 🌉 [Bridge Builder 2000](https://github.com/rohingosling/bridge-builder) - A parabolic truss-bridge design program.
+- 🌉 [Bridge Builder 2000](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.
 
 ## Research Projects
 
