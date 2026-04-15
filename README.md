@@ -50,8 +50,8 @@
 ### Commodore 64, Commodore VIC20
 
 - 🌐 [3D Cube](https://github.com/rohingosling/rohingosling) - 3D Wireframe object renderer.
-- ⌨️ [Code Probe](https://github.com/rohingosling/rohingosling) - Light weight C64 software monitor.
-- 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 HEX op-code machine language loader. 
+- ⌨️ [Code Probe](https://github.com/rohingosling/c64-code-probe) - Light weight C64 software monitor.
+- 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64 HEX op-code machine language loader.
 
 ## Legacy Projects
 
