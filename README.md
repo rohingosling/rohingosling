@@ -49,7 +49,7 @@
 
 ### Commodore 64, Commodore VIC20
 
-- 🌐 [3D Cube](https://github.com/rohingosling/rohingosling) - 3D Wireframe object renderer.
+- 🌐 [3D Cube](https://github.com/rohingosling/rohingosling) - Interactive 3D cube demo, for the Commodore VIC-20 and Commodore 64. 
 - ⌨️ [Code Probe (C64)](https://github.com/rohingosling/code-probe-c64) - Machine language monitor for the unexpanded Commodore 64..
 - ⌨️ [Code Probe (VIC-20)](https://github.com/rohingosling/code-probe-vic-20) - Machine language monitor for the VIC-20 + VIC-1211A Super Expander.
 - 💾 [HEX-Loader](https://github.com/rohingosling/c64-hex-loader/tree/main) - Commodore 64, HEX op-code, BASIC machine language loader.
