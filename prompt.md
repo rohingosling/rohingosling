@@ -1,28 +1,30 @@
-# Context
+# Prompt
+
+## Context
 
 - Xyz
 - Xyz
 - Xyz
 
-# Question(s)
+## Style and Format
+
+- Xyz
+- Xyz
+- Xyz
+
+## Question(s)
 
 1. Xyz
 2. Xyz
 3. Xyz
 
-# Instruction(s)
+## Instruction(s)
 
 1. Xyz
 2. Xyz
 3. Xyz
 
-# Style and Format
-
-- Xyz
-- Xyz
-- Xyz
-
-# Notes
+## Notes
 
 - Xyz
 - Xyz
