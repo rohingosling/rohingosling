@@ -15,7 +15,9 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenSCAD](https://img.shields.io/badge/OpenSCAD-F5C400?style=flat-square&logo=openscad&logoColor=black)
+![Commodore VIC-20](https://img.shields.io/badge/Commodore_VIC--20-A05A2C?style=flat&logo=commodore&logoColor=white)
 ![Commodore 64](https://img.shields.io/badge/Commodore_64-6C5EB5?style=flat-square&logo=commodore&logoColor=white)
+
 
 ## Production Projects
 
