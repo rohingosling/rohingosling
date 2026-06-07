@@ -26,7 +26,7 @@
 
 - 🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.
 - 📡 [Pinger](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
-- 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** as a `.docx` or `.pdf`, optimized for duplex printing. [2026]()
+- 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** as a `.docx` or `.pdf`, optimized for duplex printing. [2026](), [2027](), [2028](), [2029]().
 - 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
 - 🌉 [Bridge Builder 2000](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.
 
