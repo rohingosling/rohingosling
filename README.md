@@ -26,7 +26,7 @@
 
 - 🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.
 - 📡 [Pinger](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
-- 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing. *Pre-generated PDFs --> [2026](https://github.com/rohingosling/year-planner/blob/master/dist/year-planner-2026.pdf)*.
+- 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.
 - 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
 - 🌉 [Bridge Builder 2000](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.
 
@@ -46,8 +46,8 @@
 
 - ❄️ [Fractal Renderer (DOS)](https://github.com/rohingosling/Fractal-Renderer-DOS) Configurable Mandelbrot fractal geometry renderer. 
 - 🌐 [M3DE](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Originally targeting 386 and 486 machines from the 90s.
-- 🌈 [GFX-13 (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h (320x200, 256 color) 2D graphics library for old-school demo coding, written in C and inline assembly.
-- 🌈 [GFX-13 (v1, ASM)](https://github.com/rohingosling/GFX13-v1-ASM) - Mode 13h (320x200, 256 color) 2D graphics library for old-school demo coding, written in x86 assembler.
+- 🌈 [GFX-13 (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h 2D graphics library for old-school demo coding, written in C and inline assembly.
+- 🌈 [GFX-13 (v1, ASM)](https://github.com/rohingosling/GFX13-v1-ASM) - Mode 13h 2D graphics library for old-school demo coding, written in x86 assembler.
 - 🔵 [Vector Balls](https://github.com/rohingosling/VectorBalls) - Vector ball demo, with parallel starfield renderer, and palette fade-in and fade-out.
 - 〰️ [Polynomial Curve Fitting Library](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library) - A polynomial curve fitting library.
 - 📄 [INI File Library (DOS, Win 3.1, Win 95/98)](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
