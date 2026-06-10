@@ -113,8 +113,6 @@ If your system integrates with other systems, don't wait for integration testing
 
 ---
 
-<br>
-
 💭
 
 <details>
