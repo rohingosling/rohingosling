@@ -77,9 +77,9 @@
 
 - **Runtime Configurability** - Every application should ship with a UI (GUI, TUI, or CLI) that lets business users tune configurable features in production, without logging a project. This includes backend and middleware systems.
 
-- **Reporting Ships on Day One** - Every application should include a basic dashboard out of the box. Even a CLI gets a `--stats` flag. Design the data model for reportability from the start, not as a retrofit.
+- **Reporting Ships on Day One** - Every application should include a basic dashboard out of the box. Even a CLI gets a `--stats` flag or a neatly formatted log file. Design the data model for reportability from the start, not as a retrofit.
 
-- **UI-API Parity** - Anything a user can do through the UI must also be possible via the API, and vice versa. Both surfaces ship together and are regression-tested together.
+- **UI-API Parity** - Anything a user can do through the UI must also be possible via the API, and vice versa. Both surfaces ship together and are regression-tested together. This promotes both automation opportunities and human usability at the same time.
 
 - **Build Internal Productivity Tools** - Allocate time and budget for tools that accelerate the team. For example, if you adopt UI-API parity, build a scaffolding tool so developers can spin up both surfaces for a new feature in minutes.
 
