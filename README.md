@@ -26,6 +26,7 @@
 - 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.
 - 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
 - 🌉 [Bridge Builder 2000](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.
+- 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.
 
 ## Research Projects
 
