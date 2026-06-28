@@ -29,7 +29,7 @@
 - 📚 [**Lexandria**](https://github.com/rohingosling/lexandria) - Universal project repository registry. ⛏️
 - 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
 - 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.
-- 🖨️ [3D Printing Models](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. Including [Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)
+- 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))
 - 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.
 - 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.
 
@@ -41,6 +41,7 @@
 - 🎲 [ECS Game Engine (Java Version)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.
 - 🎲 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (Entity Component System) Game Engine.
 - 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric solutions for cubic polynomials and trigonometric functions.
+- 🦠 [Generative Design](https://github.com/rohingosling/3d-modeling-generative-design) - Generative 3D modeling.
 - 🌐 [Gaussian Isosurfaces](https://github.com/rohingosling/gaussian-isosurfaces) - Visualizing superpositions of isotropic 3D Gaussian fields as isosurfaces, i.e. Metaballs.
 - 🚀 [Rocket Engine Thrust Chamber](https://github.com/rohingosling/rocket-engine-thrust-chamber) - Rocket engine thrust chamber contour model.
 - 🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.
