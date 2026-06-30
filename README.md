@@ -25,51 +25,51 @@
 
 ## Production Projects
 
-- 🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.
-- 📚 [**Lexandria**](https://github.com/rohingosling/lexandria) - Universal project repository registry. ⛏️
-- 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.
-- 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.
-- 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))
-- 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.
-- 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.
+🏁 [HEX Grid Tessellator](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
+📚 [**Lexandria**](https://github.com/rohingosling/lexandria) - Universal project repository registry. ⛏️<br>
+📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
+📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.<br>
+🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
+🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))<br>
+🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.
 
 ## Research Projects
 
-- ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$ ⛏️
-- 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.
-- ✖️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$
-- 🎲 [ECS Game Engine (Java Version)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.
-- 🎲 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (Entity Component System) Game Engine.
-- 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric solutions for cubic polynomials and trigonometric functions.
-- 🦠 [Generative Design](https://github.com/rohingosling/3d-modeling-generative-design) - Generative 3D modeling.
-- 🌐 [Gaussian Isosurfaces](https://github.com/rohingosling/gaussian-isosurfaces) - Visualizing superpositions of isotropic 3D Gaussian fields as isosurfaces, i.e. Metaballs.
-- 🚀 [Rocket Engine Thrust Chamber](https://github.com/rohingosling/rocket-engine-thrust-chamber) - Rocket engine thrust chamber contour model.
-- 🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.
-- 🤖 [OpenAI GPT Reference App)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Template for writing procedural OpenAI GPT API applications.
-- 📉 [Simulated Annealer](https://github.com/rohingosling/simulated-annealing-optimizer) - Simulated Annealing (SA) optimizer C++ library.
-- 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.
-- 🧠 [Neural Network (MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.
+♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$ ⛏️<br>
+🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
+✖️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
+🎲 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (Entity Component System) Game Engine.<br>
+🎲 [ECS Game Engine ( Java Port from C++)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.<br>
+📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric solutions for cubic polynomials and trigonometric functions.<br>
+🦠 [Generative Design](https://github.com/rohingosling/3d-modeling-generative-design) - Generative 3D modeling.<br>
+🌐 [Gaussian Isosurfaces](https://github.com/rohingosling/gaussian-isosurfaces) - Visualizing superpositions of isotropic 3D Gaussian fields as isosurfaces, i.e. Metaballs.<br>
+🚀 [Rocket Engine Thrust Chamber](https://github.com/rohingosling/rocket-engine-thrust-chamber) - Rocket engine thrust chamber contour model.<br>
+🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.<br>
+🤖 [OpenAI GPT Reference App)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Template for writing procedural OpenAI GPT API applications.<br>
+📉 [Simulated Annealer](https://github.com/rohingosling/simulated-annealing-optimizer) - Simulated Annealing (SA) optimizer C++ library.<br>
+🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.<br>
+🧠 [Neural Network (MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.<br>
 
 ## 80s/90s Demo Scene + Retro Computing
 
 ### 80x86
 
-- ❄️ [Fractal Renderer (DOS)](https://github.com/rohingosling/Fractal-Renderer-DOS) Configurable Mandelbrot fractal geometry renderer.
-- 🌐 [**M3DE**](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Targeting 386 and 486 machines from the 90s.
-- 🌈 [**GFX-13** (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h 2D graphics library for old-school demo coding, written in C and inline assembly.
-- 🌈 [**GFX-13** (v1, ASM)](https://github.com/rohingosling/GFX13-v1-ASM) - Mode 13h 2D graphics library for old-school demo coding, written in x86 assembler.
-- 🔵 [Vector Balls](https://github.com/rohingosling/VectorBalls) - Vector ball demo, with parallel starfield renderer, and palette fade-in and fade-out.
-- 〰️ [Polynomial Curve Fitting Library](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library) - A polynomial curve fitting library.
-- ◻️ [DOS Cursor Size](https://github.com/rohingosling/dos-cursor-block) - Set the Microsoft DOS cursor to a block-cursor or a default underline cursor.
-- ⚙️ [INI File Library (DOS, Win 3.1, Win 95/98)](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
+❄️ [Fractal Renderer (DOS)](https://github.com/rohingosling/Fractal-Renderer-DOS) Configurable Mandelbrot fractal geometry renderer.<br>
+🌐 [**M3DE**](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Targeting 386 and 486 machines from the 90s.<br>
+🌈 [**GFX-13** (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h 2D graphics library for old-school demo coding, written in C and inline assembly.<br>
+🌈 [**GFX-13** (v1, ASM)](https://github.com/rohingosling/GFX13-v1-ASM) - Mode 13h 2D graphics library for old-school demo coding, written in x86 assembler.<br>
+🔵 [Vector Balls](https://github.com/rohingosling/VectorBalls) - Vector ball demo, with parallel starfield renderer, and palette fade-in and fade-out.<br>
+〰️ [Polynomial Curve Fitting Library](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library) - A polynomial curve fitting library.<br>
+◻️ [DOS Cursor Size](https://github.com/rohingosling/dos-cursor-block) - Set the Microsoft DOS cursor to a block-cursor or a default underline cursor.<br>
+⚙️ [INI File Library (DOS, Win 3.1, Win 95/98)](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
 
 ### Commodore 64, Commodore VIC20
 
-- 🛸 [**Tank vs UAP**](https://github.com/rohingosling/tank-vs-uap) - Arcade style, pixel smooth, interpretation of Duane Later's original **Tank vs UFO** for the VIC-20.
-- 🌐 [3D Cube Demo](https://github.com/rohingosling/3d-cube-commodore) - Interactive 3D cube demo, for the Commodore VIC-20 and Commodore 64.
-- `A`&nbsp; [Westminster Typeface](https://github.com/rohingosling/commodore-westminster-typeface) - Set the Commodore 64 or Vic-20 custom character set to Westminster typeface.
-- ⌨️ [**Code Probe** (C64)](https://github.com/rohingosling/code-probe-c64) - Machine language monitor for the unexpanded Commodore 64.
-- ⌨️ [**Code Probe** (VIC-20)](https://github.com/rohingosling/code-probe-vic-20) - Machine language monitor for the VIC-20 + VIC-1211A Super Expander.
+🛸 [**Tank vs UAP**](https://github.com/rohingosling/tank-vs-uap) - Arcade style, pixel smooth, interpretation of Duane Later's original **Tank vs UFO** for the VIC-20.<br>
+🌐 [3D Cube Demo](https://github.com/rohingosling/3d-cube-commodore) - Interactive 3D cube demo, for the Commodore VIC-20 and Commodore 64.<br>
+ `A`&nbsp; [Westminster Typeface](https://github.com/rohingosling/commodore-westminster-typeface) - Set the Commodore 64 or Vic-20 custom character set to Westminster typeface.<br>
+⌨️ [**Code Probe** (C64)](https://github.com/rohingosling/code-probe-c64) - Machine language monitor for the unexpanded Commodore 64.<br>
+⌨️ [**Code Probe** (VIC-20)](https://github.com/rohingosling/code-probe-vic-20) - Machine language monitor for the VIC-20 + VIC-1211A Super Expander.<br>
 
 <br>
 
