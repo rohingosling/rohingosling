@@ -39,6 +39,7 @@
 ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
 ✖️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
+💳 [Exponentially Biased Debt Repayment Weight](https://github.com/rohingosling/exponentially-biased-debt-repayment-weight) - Simple way to rank repayment behavior with exponential decay.<br>
 🎲 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (Entity Component System) Game Engine.<br>
 🎲 [ECS Game Engine ( Java Port from C++)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.<br>
 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric solutions for cubic polynomials and trigonometric functions.<br>
