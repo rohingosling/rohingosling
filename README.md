@@ -28,6 +28,7 @@
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.<br>
+🖥️ [**Data Probe**](https://github.com/rohingosling/data-probe) - HEX file editor for DOS. ⚠️<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))<br>
@@ -56,7 +57,6 @@
 
 ### 80x86
 
-🖥️ [**Data Probe**](https://github.com/rohingosling/data-probe) - HEX file editor for DOS. Can be used in either real DOS or a DOS Emulator. ⚠️<br>
 ❄️ [Fractal Renderer (DOS)](https://github.com/rohingosling/Fractal-Renderer-DOS) - Configurable Mandelbrot fractal geometry renderer.<br>
 🌐 [**M3DE**](https://github.com/rohingosling/M3DE) - 3D graphics engine for mode 13h demo coding. Targeting 386 and 486 machines.<br>
 🌈 [**GFX-13** (v2, C)](https://github.com/rohingosling/GFX13-v2-C) - Mode 13h 2D graphics library for old-school demo coding, written in C and inline assembly.<br>
