@@ -45,6 +45,7 @@
 🎲 [ECS Game Engine ( Java Port from C++)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.<br>
 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric solutions for cubic polynomials and trigonometric functions.<br>
 🦠 [Generative Design](https://github.com/rohingosling/3d-modeling-generative-design) - Generative 3D modeling.<br>
+🦾 [SPD (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🌐 [Gaussian Isosurfaces](https://github.com/rohingosling/gaussian-isosurfaces) - Visualizing superpositions of isotropic 3D Gaussian fields as isosurfaces, i.e. Metaballs.<br>
 🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.<br>
 🤖 [OpenAI GPT Reference App)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Template for writing procedural OpenAI GPT API applications.<br>
