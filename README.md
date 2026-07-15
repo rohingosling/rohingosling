@@ -25,15 +25,15 @@
 
 ## Production Projects
 
+📚 [**Lexandria**](https://github.com/rohingosling/lexandria) - Universal project repository registry. ⛏️<br>
+📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vja) - Edit JSON files, with data capture forms and tables. ⛏️<br>
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.<br>
-🖥️ [**Data Probe**](https://github.com/rohingosling/data-probe) - HEX file editor for DOS. ⚠️<br>
+🖥️ [**Data Probe**](https://github.com/rohingosling/data-probe) - HEX editor for DOS.<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))<br>
-📚 [**Lexandria**](https://github.com/rohingosling/lexandria) - Universal project repository registry. ⛏️<br>
-📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vja) - Edit JSON files, with data capture forms and tables. ⛏️<br>
 
 ## Research Projects
 
