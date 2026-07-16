@@ -33,14 +33,14 @@
 🖥️ [**Data Probe**](https://github.com/rohingosling/data-probe) - HEX editor for DOS.<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
-🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) [🌐](https://www.thingiverse.com/thing:2187167) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))<br>
+🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167)) [🌐](https://www.thingiverse.com/thing:2187167)<br>
 
 ## Research Projects
 
 ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
 👁️‍🗨️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
-⚖️ [Exponentially Biased Debt Repayment Weight](https://github.com/rohingosling/exponentially-biased-debt-repayment-weight) [🌐](https://rohingosling.github.io/exponentially-biased-debt-repayment-weight/app/) - Rank repayment behavior with exponential decay.<br>
+⚖️ [Exponentially Biased Debt Repayment Weight](https://github.com/rohingosling/exponentially-biased-debt-repayment-weight) - Rank repayment behavior with exponential decay. [🌐](https://rohingosling.github.io/exponentially-biased-debt-repayment-weight/app/)<br>
 🏛️ [ECA Rule Engine]() - A domain independent ECA (**E**vent **C**ondition **A**ction) rule engine. ⛏️<br>
 🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.<br>
 🤖 [OpenAI GPT Reference App)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Template for writing procedural OpenAI GPT API applications.<br>
