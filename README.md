@@ -39,13 +39,13 @@
 
 ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
-✖️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
+👁️‍🗨️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
 ⚖️ [Exponentially Biased Debt Repayment Weight](https://github.com/rohingosling/exponentially-biased-debt-repayment-weight) [🌐](https://rohingosling.github.io/exponentially-biased-debt-repayment-weight/app/) - Rank repayment behavior with exponential decay.<br>
 🏛️ [ECA Rule Engine]() - A domain independent ECA (**E**vent **C**ondition **A**ction) rule engine. ⛏️<br>
 🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.<br>
 🤖 [OpenAI GPT Reference App)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Template for writing procedural OpenAI GPT API applications.<br>
-🎲 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (**E**ntity **C**omponent **S**ystem) Game Engine.<br>
-🎲 [ECS Game Engine ( Java Port from C++)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.<br>
+🎮 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (**E**ntity **C**omponent **S**ystem) Game Engine.<br>
+🎮 [ECS Game Engine ( Java Port from C++)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.<br>
 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric solutions for cubic polynomials and trigonometric functions.<br>
 🦠 [Generative Design](https://github.com/rohingosling/3d-modeling-generative-design) - Generative 3D modeling.<br>
 🦾 [SPD (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
