@@ -33,7 +33,7 @@
 🖥️ [**Data Probe**](https://github.com/rohingosling/data-probe) - HEX editor for DOS.<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
-🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))<br>
+🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) [🌐](https://www.thingiverse.com/thing:2187167) - Parametric 3D Printing models. ([Thingiverse - Parametric Hinge](https://www.thingiverse.com/thing:2187167))<br>
 
 ## Research Projects
 
