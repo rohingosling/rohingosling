@@ -40,7 +40,7 @@
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
 👁️‍🗨️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
 ⚖️ [Exponentially Biased Debt Repayment Weight](https://github.com/rohingosling/exponentially-biased-debt-repayment-weight) - Rank repayment behavior with exponential decay. [🌐](https://rohingosling.github.io/exponentially-biased-debt-repayment-weight/app/)<br>
-🏛️ [Stateless ECA Rule Engine](https://github.com/rohingosling/eca-rule-engine) - A domain independent, stateless ECA (**E**vent **C**ondition **A**ction) rule engine. ⛏️<br>
+🏛️ [Stateless ECA Rule Engine](https://github.com/rohingosling/eca-rule-engine) - A domain independent, stateless ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐]() ⛏️<br>
 🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.<br>
 🤖 [OpenAI GPT Reference App)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Template for writing procedural OpenAI GPT API applications.<br>
 🎮 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (**E**ntity **C**omponent **S**ystem) Game Engine.<br>
@@ -65,11 +65,14 @@
 🔵 [Vector Balls](https://github.com/rohingosling/VectorBalls) - Vector ball demo, with parallel starfield renderer, and palette fade-in and fade-out.<br>
 〰️ [Polynomial Curve Fitting Library](https://github.com/rohingosling/Polynomial-Curve-Fitting-Library) - A polynomial curve fitting library.<br>
 ◻️ [DOS Cursor Size](https://github.com/rohingosling/dos-cursor-block) - Set the Microsoft DOS cursor to a block-cursor or a default underline cursor.<br>
-⚙️ [INI File Library (DOS, Win 3.1, Win 95/98)](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.
+⚙️ [INI File Library (DOS, Win 3.1, Win 95/98)](https://github.com/rohingosling/INI-File-Library) - Read and write INI files.<br>
+🪪 [**MicroApp**](https://github.com/rohingosling/micro-app) - Text user interface framework for MS-DOS. Depends on **MicroText**.<br>
+📄 [**MicroText**](https://github.com/rohingosling/micro-text) - Low level text visualization library, for building high performance text user interfaces in MS-DOS.<br>
+
 
 ### Commodore 64, Commodore VIC20
 
-🛸 [**Tank vs UAP**](https://github.com/rohingosling/tank-vs-uap) - Arcade style, pixel smooth, interpretation of Duane Later's original **Tank vs UFO** for the VIC-20.<br>
+🛸 [**Tank vs UAP**](https://github.com/rohingosling/tank-vs-uap) - Arcade style, pixel smooth, interpretation of *Duane Later's* original **Tank vs UFO** for the VIC-20.<br>
 🌐 [3D Cube Demo](https://github.com/rohingosling/3d-cube-commodore) - Interactive 3D cube demo, for the Commodore VIC-20 and Commodore 64.<br>
  `A`&nbsp; [Westminster Typeface](https://github.com/rohingosling/commodore-westminster-typeface) - Set the Commodore 64 or Vic-20 custom character set to Westminster typeface.<br>
 ⌨️ [**Code Probe** (C64)](https://github.com/rohingosling/code-probe-c64) - Machine language monitor for the unexpanded Commodore 64.<br>
@@ -79,6 +82,7 @@
 
 🦾 [**SPD** (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🕹️ [**Tron 3D**]() - Tron "Light pods". 3D interpretation of Tron's light cycles game.<br>
+📈 [Numerai Competition]() - Legacy [Numerai](https://numer.ai/) models from 2017 in the early days of [Numerai](https://numer.ai/). 
 
 <br>
 
