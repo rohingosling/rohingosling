@@ -47,7 +47,6 @@
 🎮 [ECS Game Engine ( Java Port from C++)](https://github.com/rohingosling/ecs-game-engine-java) - ECS (Entity Component System) Game Engine - Java version.<br>
 📐 [Parametric Function Solutions](https://github.com/rohingosling/parametric-functions) - Parametric solutions for cubic polynomials and trigonometric functions.<br>
 🦠 [Generative Design](https://github.com/rohingosling/3d-modeling-generative-design) - Generative 3D modeling.<br>
-🦾 [SPD (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🌐 [Gaussian Isosurfaces](https://github.com/rohingosling/gaussian-isosurfaces) - Visualizing superpositions of isotropic 3D Gaussian fields as isosurfaces, i.e. Metaballs.<br>
 📉 [Simulated Annealer](https://github.com/rohingosling/simulated-annealing-optimizer) - Simulated Annealing (SA) optimizer C++ library.<br>
 🚀 [Rocket Engine Thrust Chamber](https://github.com/rohingosling/rocket-engine-thrust-chamber) - Rocket engine thrust chamber contour model.<br>
@@ -75,6 +74,11 @@
  `A`&nbsp; [Westminster Typeface](https://github.com/rohingosling/commodore-westminster-typeface) - Set the Commodore 64 or Vic-20 custom character set to Westminster typeface.<br>
 ⌨️ [**Code Probe** (C64)](https://github.com/rohingosling/code-probe-c64) - Machine language monitor for the unexpanded Commodore 64.<br>
 ⌨️ [**Code Probe** (VIC-20)](https://github.com/rohingosling/code-probe-vic-20) - Machine language monitor for the VIC-20 + VIC-1211A Super Expander.<br>
+
+## Legacy Projects
+
+🦾 [**SPD** (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
+🕹️ [**Tron 3D**]() - Tron "Light pods". 3D interpretation of Tron's light cycles game.<br>
 
 <br>
 
