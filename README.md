@@ -26,7 +26,7 @@
 ## Production Projects
 
 📚 [**Lexandria**](https://github.com/rohingosling/lexandria) - Universal project repository registry. ⛏️<br>
-📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
+📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)* **2.0**](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.<br>
@@ -82,7 +82,7 @@
 
 🦾 [**SPD** (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🕹️ [**Tron 3D**]() - Tron "Light pods". 3D interpretation of Tron's light cycles game.<br>
-📈 [Numerai Competition]() - Legacy [Numerai](https://numer.ai/) models from 2017 in the early days of [Numerai](https://numer.ai/). 
+📈 [Numerai Competition]() - Legacy **Numerai** models from 2017 in the early days of [Numerai](https://numer.ai/). 
 
 <br>
 
