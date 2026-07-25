@@ -170,7 +170,13 @@ If your system integrates with other systems, don't wait for integration testing
 ## 🖼️ Gallery
 
 <p align="center">
-  <img src="media/images/gif/tron-light-pods--demo-1.gif" height="180" alt="Tron Light Pods — Win32 OpenGL 3D demo">
+  <img src="media/images/gif/eca-rule-engine-1.gif" height="180" alt="ECA Rule Engine — elementary cellular automata">
+  <img src="media/images/gif/open-worm-1.gif" height="180" alt="OpenWorm — C. elegans connectome simulation">
+  <img src="media/images/gif/ecs-game-engine-1.gif" height="180" alt="ECS Game Engine — entity component system demo">
+</p>
+
+<p align="center">
+  <img src="media/images/gif/demo-1.webp" height="180" alt="Tron Light Pods — Win32 OpenGL 3D demo">
   <img src="media/images/gif/gaussian-isosurfaces--video-1.gif" height="180" alt="Gaussian Isosurfaces — animated metaball fields">
   <img src="media/images/gif/gaussian-isosurfaces--video-5.gif" height="180" alt="Gaussian Isosurfaces — animated metaball fields">
 </p>
