@@ -148,7 +148,7 @@ If your system integrates with other systems, don't wait for integration testing
 ---
 
 <details>
-<summary><b>📰 Random Facts</b></summary>
+<summary><b>❓ Random Facts</b></summary>
 
 <br>
 
