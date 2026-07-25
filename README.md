@@ -83,7 +83,8 @@
 🏛️ [ECA Rule Engine - *(Old version)*](https://github.com/rohingosling/eca-rule-engine) - A domain independent, stateless ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐](https://rohingosling.github.io/eca-rule-engine/)<br>
 🦾 [**SPD** (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🕹️ [**Tron 3D**]() - Tron "Light pods". 3D interpretation of Tron's light cycles game.<br>
-📈 [Numerai Competition]() - Legacy **Numerai** models from 2017 in the early days of [Numerai](https://numer.ai/). 
+📈 [Numerai Competition]() - Legacy **Numerai** models from 2017 in the early days of [Numerai](https://numer.ai/).<br>
+💵 [**APX Payment Manager**](https://github.com/rohingosling/apx-payment-manager) - Schedule disbursment payments from investment portfolios managed with [Advent APX](https://www.advent.com/solutions/advent-portfolio-exchange/).
 
 <br>
 
