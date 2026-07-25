@@ -181,6 +181,12 @@ If your system integrates with other systems, don't wait for integration testing
   <img src="media/images/gif/gaussian-isosurfaces--video-5.gif" height="180" alt="Gaussian Isosurfaces — animated metaball fields">
 </p>
 
+<p align="center">
+  <img src="media/images/gif/micro-app--application-example-1.gif" height="180" alt="MicroApp — DOS text user interface framework">
+  <img src="media/images/gif/micro-app--micro-edit-1.gif" height="180" alt="MicroApp — Micro Edit">
+  <img src="media/images/gif/parametric-functions.gif" height="180" alt="Parametric Function Solutions — cubic and trigonometric curves">
+</p>
+
 <p align="center">  
   <img src="media/images/gif/spd--hand.gif" height="180" alt="SPD — prosthetic hand">
   <img src="media/images/gif/spd--hand-assembly-1-0.gif" height="180" alt="SPD — prosthetic hand assembly">
@@ -203,12 +209,6 @@ If your system integrates with other systems, don't wait for integration testing
   <img src="media/images/gif/code-probe-c64--animation-2.gif" height="180" alt="Code Probe C64 — machine language monitor">
   <img src="media/images/gif/year-planner--year-planner-samples.gif" height="180" alt="Year Planner — printable planner samples">
   <img src="media/images/gif/year-planner--year-planner-terminal.gif" height="180" alt="Year Planner — terminal interface">
-</p>
-
-<p align="center">
-  <img src="media/images/gif/micro-app--application-example-1.gif" height="180" alt="MicroApp — DOS text user interface framework">
-  <img src="media/images/gif/micro-app--micro-edit-1.gif" height="180" alt="MicroApp — Micro Edit">
-  <img src="media/images/gif/micro-text--test.gif" height="180" alt="MicroText — DOS text-mode screen library">
 </p>
 
 <p align="center">  
