@@ -166,3 +166,50 @@ If your system integrates with other systems, don't wait for integration testing
 </details>
 
 <br>
+
+## 🖼️ Gallery
+
+<p align="center">
+  <img src="media/images/gif/tron-light-pods--demo-1.gif" height="180" alt="Tron Light Pods — Win32 OpenGL 3D demo">
+  <img src="media/images/gif/gaussian-isosurfaces--video-1.gif" height="180" alt="Gaussian Isosurfaces — animated metaball fields">
+  <img src="media/images/gif/gaussian-isosurfaces--video-5.gif" height="180" alt="Gaussian Isosurfaces — animated metaball fields">
+</p>
+
+<p align="center">  
+  <img src="media/images/gif/spd--hand.gif" height="180" alt="SPD — prosthetic hand">
+  <img src="media/images/gif/spd--hand-assembly-1-0.gif" height="180" alt="SPD — prosthetic hand assembly">
+  <img src="media/images/gif/spd--hand-rotation-1-0.gif" height="180" alt="SPD — prosthetic hand rotation">
+</p>
+
+<p align="center">
+  <img src="media/images/gif/gfx13-v1-asm--plasma06_000.gif" height="180" alt="GFX-13 — plasma effect">
+  <img src="media/images/gif/bridge-builder--bridge_000.gif" height="180" alt="Bridge Builder — DOS suspension bridge designer">
+  <img src="media/images/gif/data-probe--dprobe.gif" height="180" alt="Data Probe — DOS hex editor">
+</p>
+
+<p align="center">
+  <img src="media/images/gif/m3de--demo1_000_320x200.gif" height="180" alt="M3DE — demo scene">  
+  <img src="media/images/gif/m3de--blocks02_000_320x200.gif" height="180" alt="M3DE — blocks scene">
+  <img src="media/images/gif/vectorballs--balls_01_640x400.gif" height="180" alt="VectorBalls — 386/486 DOS demo">
+</p>
+
+<p align="center">  
+  <img src="media/images/gif/code-probe-c64--animation-2.gif" height="180" alt="Code Probe C64 — machine language monitor">
+  <img src="media/images/gif/year-planner--year-planner-samples.gif" height="180" alt="Year Planner — printable planner samples">
+  <img src="media/images/gif/year-planner--year-planner-terminal.gif" height="180" alt="Year Planner — terminal interface">
+</p>
+
+<p align="center">
+  <img src="media/images/gif/micro-app--application-example-1.gif" height="180" alt="MicroApp — DOS text user interface framework">
+  <img src="media/images/gif/micro-app--micro-edit-1.gif" height="180" alt="MicroApp — Micro Edit">
+  <img src="media/images/gif/micro-text--test.gif" height="180" alt="MicroText — DOS text-mode screen library">
+</p>
+
+<p align="center">  
+  <img src="media/images/gif/tank-vs-uap--tank-vs-uap-composite-1.gif" height="180" alt="Tank vs UAP — composite view">
+  <img src="media/images/gif/3d-cube-commodore--commodore-64.gif" height="180" alt="3D Cube — Commodore 64">  
+  <img src="media/images/gif/code-probe-c64--animation-1.gif" height="180" alt="Code Probe C64 — machine language monitor">
+</p>
+
+
+
