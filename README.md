@@ -167,6 +167,8 @@ If your system integrates with other systems, don't wait for integration testing
 
 <br>
 
+---
+
 ## 🖼️ Gallery
 
 <p align="center">
