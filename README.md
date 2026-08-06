@@ -26,7 +26,6 @@
 ## Production Projects
 
 📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)* **2.0**](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
-📚 [**Lexandria**](https://github.com/rohingosling/lexandria) - Universal project repository registry. ⛏️<br>
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable **Year Planner** `.docx` or `.pdf`, optimized for duplex printing.<br>
@@ -37,7 +36,6 @@
 
 ## Research Projects
 
-👽 [**Sentinel**](https://github.com/rohingosling/sentinel) - A secure, self-evolving personal AI agent with zero external daemons. ⛏️<br>
 ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
 👁️‍🗨️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
@@ -54,6 +52,7 @@
 🚀 [Rocket Engine Thrust Chamber](https://github.com/rohingosling/rocket-engine-thrust-chamber) - Rocket engine thrust chamber contour model.<br>
 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.<br>
 🧠 [Neural Network (MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.<br>
+👽 [**Sentinel**](https://github.com/rohingosling/sentinel) - A secure, self-evolving personal AI agent with zero external daemons. ⛏️<br>
 
 ## 80s/90s Demo Scene + Retro Computing
 
