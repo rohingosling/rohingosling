@@ -27,17 +27,17 @@
 
 📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
-📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like [`ping`](), ...but prettier, ...with CSV file exports.<br>
+📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable year planner as a `.docx` or `.pdf`, optimized for duplex printing.<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. [🌐](https://www.thingiverse.com/thing:2187167)<br>
-🔫 [**PUBG** Achievements](https://github.com/rohingosling/pubg-steam-achievements) - Interactive PUBG Steam achievements list. [🌐]()
+🔫 [**PUBG** Achievements](https://github.com/rohingosling/pubg-steam-achievements) - Sortable PUBG Steam achievements list. [🌐]()
 
 ## Research Projects
 
 👽 [**Sentinel**](https://github.com/rohingosling/sentinel) - A secure, self-evolving personal AI agent with zero external daemons. ⛏️<br>
-🎲 [**Automata Lab**](https://github.com/rohingosling/automata-lab) - Generate, create, edit, test, and execute Finite State Machines. [🌐]() ⛏️<br>
+🎲 [**Automata Lab**](https://github.com/rohingosling/automata-lab) - Generate, create, edit, test, and execute Finite State Machines. [🌐]() <br>
 🏛️ [**ECA Rule Engine Lab**](https://github.com/rohingosling/eca-rule-engine-2) - A domain independent, stateless, ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐](https://rohingosling.github.io/eca-rule-engine-2/) <br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
 ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
