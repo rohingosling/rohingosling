@@ -173,7 +173,6 @@ If your system integrates with other systems, don't wait for integration testing
 
 ## 🖼️ Gallery
 
-
 <p align="center">
   <img src="media/images/gif/eca-rule-engine-1.gif" height="180" alt="ECA Rule Engine — elementary cellular automata">
   <img src="media/images/gif/open-worm-1.gif" height="180" alt="OpenWorm — C. elegans connectome simulation">
@@ -187,9 +186,9 @@ If your system integrates with other systems, don't wait for integration testing
 </p>
 
 <p align="center">
-  <img src="media/images/gif/eca-rule-engine-2.gif" height="180">
-  <img src="media/images/gif/automata-lab.gif" height="180">
-  <img src="media/images/gif/vje.gif" height="180">
+  <img src="media/images/gif/eca-rule-engine-2.gif" height="180" alt="ECA Rule Engine Lab — event-condition-action rule engine">
+  <img src="media/images/gif/automata-lab.gif" height="180" alt="Automata Lab — finite state machine editor">
+  <img src="media/images/gif/vje.gif" height="180" alt="VJE — versatile JSON editor">
 </p>
 
 <p align="center">
@@ -223,9 +222,9 @@ If your system integrates with other systems, don't wait for integration testing
 </p>
 
 <p align="center">  
-  <img src="media/images/gif/actuated-valve.gif" height="180" alt="Tank vs UAP — composite view">
-  <img src="media/images/gif/c64-samples.gif" height="180" alt="3D Cube — Commodore 64">  
-  <img src="media/images/gif/custom-actuators.gif" height="180" alt="Code Probe C64 — machine language monitor">
+  <img src="media/images/gif/actuated-valve.gif" height="180" alt="Actuated valve — breadboard servo control prototype">
+  <img src="media/images/gif/c64-samples.gif" height="180" alt="Commodore 64 — assembly language graphics samples">  
+  <img src="media/images/gif/custom-actuators.gif" height="180" alt="Custom actuators — engineering drawings for bespoke rotary actuators">
 </p>
 
 <p align="center">  
