@@ -32,7 +32,7 @@
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. [🌐](https://www.thingiverse.com/thing:2187167)<br>
-🔫 [**PUBG** Achievements](https://github.com/rohingosling/pubg-steam-achievements) - Sortable PUBG Steam achievements list. [🌐]()
+🔫 [**PUBG** Achievements](https://github.com/rohingosling/pubg-steam-achievements) - Sortable PUBG Steam achievements list. [🌐](https://rohingosling.github.io/pubg-steam-achievements/)
 
 ## Research Projects
 
@@ -174,6 +174,12 @@ If your system integrates with other systems, don't wait for integration testing
 ## 🖼️ Gallery
 
 <p align="center">
+  <img src="media/images/gif/eca-rule-engine-2.gif" height="180" alt="ECA Rule Engine Lab — event-condition-action model editor and simulator">
+  <img src="media/images/gif/automata-lab.gif" height="180" alt="Automata Lab — finite state machine editor">
+  <img src="media/images/gif/vje.gif" height="180" alt="VJE — Versatile JSON Editor">
+</p>
+
+<p align="center">
   <img src="media/images/gif/eca-rule-engine-1.gif" height="180" alt="ECA Rule Engine — elementary cellular automata">
   <img src="media/images/gif/open-worm-1.gif" height="180" alt="OpenWorm — C. elegans connectome simulation">
   <img src="media/images/gif/ecs-game-engine-1.gif" height="180" alt="ECS Game Engine — entity component system demo">
@@ -216,10 +222,17 @@ If your system integrates with other systems, don't wait for integration testing
 </p>
 
 <p align="center">  
+  <img src="media/images/gif/actuated-valve.gif" height="180" alt="Tank vs UAP — composite view">
+  <img src="media/images/gif/c64-samples.gif" height="180" alt="3D Cube — Commodore 64">  
+  <img src="media/images/gif/custom-actuators.gif" height="180" alt="Code Probe C64 — machine language monitor">
+</p>
+
+<p align="center">  
   <img src="media/images/gif/tank-vs-uap--tank-vs-uap-composite-1.gif" height="180" alt="Tank vs UAP — composite view">
   <img src="media/images/gif/3d-cube-commodore--commodore-64.gif" height="180" alt="3D Cube — Commodore 64">  
   <img src="media/images/gif/code-probe-c64--animation-1.gif" height="180" alt="Code Probe C64 — machine language monitor">
 </p>
+
 
 
 
