@@ -173,11 +173,6 @@ If your system integrates with other systems, don't wait for integration testing
 
 ## 🖼️ Gallery
 
-<p align="center">
-  <img src="media/images/gif/eca-rule-engine-2.gif" height="180" alt="ECA Rule Engine Lab — event-condition-action model editor and simulator">
-  <img src="media/images/gif/automata-lab.gif" height="180" alt="Automata Lab — finite state machine editor">
-  <img src="media/images/gif/vje.gif" height="180" alt="VJE — Versatile JSON Editor">
-</p>
 
 <p align="center">
   <img src="media/images/gif/eca-rule-engine-1.gif" height="180" alt="ECA Rule Engine — elementary cellular automata">
@@ -189,6 +184,12 @@ If your system integrates with other systems, don't wait for integration testing
   <img src="media/images/gif/demo-1.webp" height="180" alt="Tron Light Pods — Win32 OpenGL 3D demo">
   <img src="media/images/gif/gaussian-isosurfaces--video-1.gif" height="180" alt="Gaussian Isosurfaces — animated metaball fields">
   <img src="media/images/gif/gaussian-isosurfaces--video-5.gif" height="180" alt="Gaussian Isosurfaces — animated metaball fields">
+</p>
+
+<p align="center">
+  <img src="media/images/gif/eca-rule-engine-2.gif" height="180">
+  <img src="media/images/gif/automata-lab.gif" height="180">
+  <img src="media/images/gif/vje.gif" height="180">
 </p>
 
 <p align="center">
