@@ -32,7 +32,7 @@
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. [🌐](https://www.thingiverse.com/thing:2187167)<br>
-🔫 [**PUBG** Achievements](https://github.com/rohingosling/pubg-steam-achievements) - Sortable PUBG Steam achievements list. [🌐](https://rohingosling.github.io/pubg-steam-achievements/)
+🎮 [**Steam** Achievements Browser](https://github.com/rohingosling/steam-achievements-browser) - Enter your Steam profile name, and browser your achievements. [🌐]() ⛏️<br>
 
 ## Research Projects
 
@@ -82,6 +82,7 @@
 
 ## Legacy Projects
 
+🔫 [**PUBG** Achievements](https://github.com/rohingosling/pubg-steam-achievements) - Sortable PUBG Steam achievements list. [🌐](https://rohingosling.github.io/pubg-steam-achievements/) <br>
 🏛️ [ECA Rule Engine - *(Old version)*](https://github.com/rohingosling/eca-rule-engine) - A domain independent, stateless ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐](https://rohingosling.github.io/eca-rule-engine/)<br>
 🦾 [**SPD** (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🕹️ [**Tron Light Pods**](https://github.com/rohingosling/tron-light-pods) - A 3D space interpretation of the light cycle game from the original 1982 movie [Tron](https://en.wikipedia.org/wiki/Tron).<br>
