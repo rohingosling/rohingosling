@@ -27,12 +27,12 @@
 
 📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
+🎮 [**Steam** Achievements Browser](https://github.com/rohingosling/steam-achievements-browser) - Enter your Steam profile name, and browser your achievements. [🌐](https://steam-achievement-browser.steam-achievement-browser.workers.dev) ⛏️<br>
 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable year planner as a `.docx` or `.pdf`, optimized for duplex printing.<br>
-🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
-🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. [🌐](https://www.thingiverse.com/thing:2187167)<br>
-🎮 [**Steam** Achievements Browser](https://github.com/rohingosling/steam-achievements-browser) - Enter your Steam profile name, and browser your achievements. [🌐]() ⛏️<br>
+🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
+
 
 ## Research Projects
 
@@ -54,6 +54,7 @@
 🚀 [Rocket Engine Thrust Chamber](https://github.com/rohingosling/rocket-engine-thrust-chamber) - Rocket engine thrust chamber contour model.<br>
 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.<br>
 🧠 [Neural Network (MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.<br>
+🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. [🌐](https://www.thingiverse.com/thing:2187167)<br>
 
 ## 80s/90s Demo Scene + Retro Computing
 
