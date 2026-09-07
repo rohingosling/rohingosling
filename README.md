@@ -38,11 +38,11 @@
 
 👽 [**Sentinel**](https://github.com/rohingosling/sentinel) - A secure, self-evolving personal AI agent with zero external daemons. ⛏️<br>
 🎲 [**Automata Lab**](https://github.com/rohingosling/automata-lab) - Generate, create, edit, test, and execute Finite State Machines. [🌐]() <br>
-🏛️ [**ECA Rule Engine Lab**](https://github.com/rohingosling/eca-rule-engine-2) - A domain independent, stateless, ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐](https://rohingosling.github.io/eca-rule-engine-2/) <br>
+🏛️ [**ECA Rule Engine Lab**](https://github.com/rohingosling/eca-rule-engine-2) - A domain independent, stateless, ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐](https://rohingosling.github.io/eca-rule-engine-2/)[📄](https://zenodo.org/records/21804777) <br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
 ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
 👁️‍🗨️ [Inteligence Equation](https://github.com/rohingosling/intelligence-equation) - Playing Tic-Tac-Toe with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
-⚖️ [Exponentially Biased Debt Repayment Weight](https://github.com/rohingosling/exponentially-biased-debt-repayment-weight) - Rank repayment behavior with exponential decay. [🌐](https://rohingosling.github.io/exponentially-biased-debt-repayment-weight/app/)<br>
+⚖️ [Exponentially Biased Debt Repayment Weight](https://github.com/rohingosling/exponentially-biased-debt-repayment-weight) - Rank repayment behavior with exponential decay. [🌐](https://rohingosling.github.io/exponentially-biased-debt-repayment-weight/app/)[📄](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7116959)<br>
 🤖 [Service Provider Agnostic Reference Chatbot](https://github.com/rohingosling/service-provider-agnostic-chatbot-python) - Template for service provider agnostic conversation agents.<br>
 🤖 [OpenAI GPT Reference App)](https://github.com/rohingosling/OpenAI-GPT-Reference-Application-1-Procedural) - Template for writing procedural OpenAI GPT API applications.<br>
 🎮 [ECS Game Engine (Original C++ Version)](https://github.com/rohingosling/ecs-game-engine) - General-purpose ECS (**E**ntity **C**omponent **S**ystem) Game Engine.<br>
@@ -97,9 +97,11 @@
 
 **Legend**
 
+🌐 Project has a website.<br>
+📄 Has an academic paper.<br>
 ⛏️ Work in progress. <br>
 ⚠️ Need to update. <br>
-🌐 Project has a website.<br>
+
 
 <br>
 
