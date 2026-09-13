@@ -37,7 +37,7 @@
 ## Research Projects
 
 👽 [**Sentinel**](https://github.com/rohingosling/sentinel) - A secure, self-evolving personal AI agent with zero external daemons. ⛏️<br>
-🎲 [**Automata Lab**](https://github.com/rohingosling/automata-lab) - Generate, create, edit, test, and execute Finite State Machines. [🌐]() <br>
+🎲 [**Automata Lab**](https://github.com/rohingosling/automata-lab) - Generate, create, edit, test, and execute Finite State Machines. [🌐](https://rohingosling.github.io/automata-lab/) <br>
 🏛️ [**ECA Rule Engine Lab**](https://github.com/rohingosling/eca-rule-engine-2) - A domain independent, stateless, ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐](https://rohingosling.github.io/eca-rule-engine-2/)[📄](https://zenodo.org/records/21804777) <br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
 ♟️ [**Taumax** - UCI Chess Engine](https://github.com/rohingosling/taumax-uci-chess-engine) - Playing chess with the causal-entropic intelligence equation, $\mathbf{F} = T \nabla S_\tau$<br>
