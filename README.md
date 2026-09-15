@@ -37,6 +37,7 @@
 ## Research Projects
 
 👽 [**Sentinel**](https://github.com/rohingosling/sentinel) - A secure, self-evolving personal AI agent with zero external daemons. ⛏️<br>
+💎 [**Gem**](https://github.com/rohingosling/gem) - Telephonic AI assistant. Takes calls, passes messages via email and WhatsApp, and books meetings. ⛏️<br>
 🎲 [**Automata Lab**](https://github.com/rohingosling/automata-lab) - Generate, create, edit, test, and execute Finite State Machines. [🌐](https://rohingosling.github.io/automata-lab/) <br>
 🏛️ [**ECA Rule Engine Lab**](https://github.com/rohingosling/eca-rule-engine-2) - A domain independent, stateless, ECA (**E**vent **C**ondition **A**ction) rule engine. [🌐](https://rohingosling.github.io/eca-rule-engine-2/)[📄](https://zenodo.org/records/21804777) <br>
 🏁 [UCI Chess Engine Template](https://github.com/rohingosling/uci-chess-engine-template) - UCI chess engine template, written in Rust.<br>
@@ -89,6 +90,12 @@
 🦾 [**SPD** (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🕹️ [**Tron Light Pods**](https://github.com/rohingosling/tron-light-pods) - A 3D space interpretation of the light cycle game from the original 1982 movie [Tron](https://en.wikipedia.org/wiki/Tron).<br>
 📈 [Numerai Competition]() - Legacy **Numerai** models from 2017 in the early days of [Numerai](https://numer.ai/). ⚠️<br>
+
+## Private Projects
+
+📞 [**Dialex**]() - Inbound / outbound AI call center agent. ⛏️<br>
+🚚 [**Logiplex**]() - Logistics platform.  ⛏️<br>
+
 
 <br>
 
