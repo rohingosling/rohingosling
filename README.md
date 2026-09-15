@@ -94,7 +94,8 @@
 ## Private Projects
 
 📞 [**Dialex**]() - Inbound / outbound AI call center agent. ⛏️<br>
-🚚 [**Logiplex**]() - Logistics platform.  ⛏️<br>
+📞 [**Blossom AI**]() - Inbound AI call center agent for Australian nanny service providers. ⛏️<br>
+✈️ [**Logiplex**]() - Logistics platform.  ⛏️<br>
 
 
 <br>
