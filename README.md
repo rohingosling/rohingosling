@@ -22,16 +22,18 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+[![committers.top badge](https://user-badge.committers.top/uae/rohingosling.svg)](https://user-badge.committers.top/uae/rohingosling)
 
 ## Production Projects
 
-📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
+⚙️ [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
 🎮 [**Steam Achievements Browser**](https://github.com/rohingosling/steam-achievements-browser) - Enter your Steam profile name, and browser your achievements. [🌐](https://steam-achievement-browser.steam-achievement-browser.workers.dev) <br>
 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable year planner as a `.docx` or `.pdf`, optimized for duplex printing.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
+📄 [Documents]() - Useful templates and documents.
 
 
 ## Research Projects
