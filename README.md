@@ -33,7 +33,6 @@
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable year planner as a `.docx` or `.pdf`, optimized for duplex printing.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
-📄 [Documents]() - Useful templates and documents.
 
 
 ## Research Projects
@@ -58,6 +57,8 @@
 🧠 [Recurrent Neural Network (RNN)](https://github.com/rohingosling/RNN-Recurrent-Neural-Network) - RNN training algorithm experiments.<br>
 🧠 [Neural Network (MLP)](https://github.com/rohingosling/neural-network-cpp) - Multi-layer perceptron experiments.<br>
 🖨️ [3D Printing Models (Open SCAD)](https://github.com/rohingosling/OpenSCAD) - Parametric 3D Printing models. [🌐](https://www.thingiverse.com/thing:2187167)<br>
+📄 [Documents]() - Useful templates and documents.
+
 
 ## 80s/90s Demo Scene + Retro Computing
 
@@ -84,6 +85,7 @@
 ⌨️ [**Code Probe** (C64)](https://github.com/rohingosling/code-probe-c64) - Machine language monitor for the unexpanded Commodore 64.<br>
 ⌨️ [**Code Probe** (VIC-20)](https://github.com/rohingosling/code-probe-vic-20) - Machine language monitor for the VIC-20 + VIC-1211A Super Expander.<br>
 
+
 ## Legacy Projects
 
 💵 [**APX Payment Manager**](https://github.com/rohingosling/apx-payment-manager) - Schedule disbursement payments from investment portfolios managed with [Advent APX](https://www.advent.com/solutions/advent-portfolio-exchange/). <br>
@@ -92,6 +94,7 @@
 🦾 [**SPD** (**S**ymbiotic **P**rosthetic **D**evice)](https://github.com/rohingosling/spd) - Hardware for the **SPD** neural network driven prosthetic hand project.<br>
 🕹️ [**Tron Light Pods**](https://github.com/rohingosling/tron-light-pods) - A 3D space interpretation of the light cycle game from the original 1982 movie [Tron](https://en.wikipedia.org/wiki/Tron).<br>
 📈 [Numerai Competition]() - Legacy **Numerai** models from 2017 in the early days of [Numerai](https://numer.ai/). ⚠️<br>
+
 
 ## Private Projects
 
