@@ -33,7 +33,7 @@
 📖 [Year Planner](https://github.com/rohingosling/year-planner) - Generate a printable year planner as a `.docx` or `.pdf`, optimized for duplex printing.<br>
 🛠️ [Claude Skills Market Place](https://github.com/rohingosling/claude-skills) - A curated collection of my publicly-shared, installable, agent-skill plugins.<br>
 🌉 [**Bridge Builder 2000**](https://github.com/rohingosling/bridge-builder) - A parabolic tied-arch bridge design program.<br>
-🖼️ [Image File Classifier](https://github.com/rohingosling/image-file-classifier) - Rename files into related groups, based on features and spectral parameters.  
+🖼️ [**Image File Classifier**](https://github.com/rohingosling/image-file-classifier) - Rename files into related groups, based on features and spectral parameters.  
 
 
 ## Research Projects
