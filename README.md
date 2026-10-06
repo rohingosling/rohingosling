@@ -26,7 +26,7 @@
 
 ## Production Projects
 
-⚙️ [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
+📄 [**VJE** *(**V**ersatile **J**SON **E**ditor)*](https://github.com/rohingosling/vje) - Edit JSON files, with data capture forms and tables. ⛏️<br>
 🏁 [**HEX Grid Tessellator**](https://github.com/rohingosling/hex-grid-tessellator) - Generate hexagonal grid images. Useful for transparency masks.<br>
 🎮 [**Steam Achievements Browser**](https://github.com/rohingosling/steam-achievements-browser) - Enter your Steam profile name, and browser your achievements. [🌐](https://steam-achievement-browser.steam-achievement-browser.workers.dev) <br>
 📡 [**Pinger**](https://github.com/rohingosling/pinger) - Like `ping`, ...but prettier, ...with CSV file exports.<br>
@@ -99,8 +99,8 @@
 
 ## Private Projects
 
-📞 [**Dialex**]() - Inbound / outbound AI call center agent. ⛏️<br>
-📞 [**Blossom AI**]() - Inbound AI call center agent for Australian nanny agencies. ⛏️<br>
+📞 [**VIORA**]() - Inbound / outbound AI call center agent platform. ⛏️<br>
+📞 [**VIORA - Blossom AI**]() - Inbound AI call center agent for Australian nanny agencies. ⛏️<br>
 ✈️[**Logiplex**]() - Logistics platform.  ⛏️<br>
 
 
